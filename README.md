@@ -1,7 +1,3 @@
-# DevOps-TechTalk
-DevOps-TechTalk
-
-
 # Provides a high level report about tool (10 points)
 [http://tiny.cc/techtalk_ci](http://tiny.cc/techtalk_ci)
 
